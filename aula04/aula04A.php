@@ -6,10 +6,10 @@
 	</head>
 	<body>
 		<?php
-		$idade = 18;
-		$nome = "Ana";
-		echo "$nome tem $idade anos <br>";
-		echo '$nome tem $idade anos';		
+			$idade = 18;
+			$nome = "Ana";
+			echo "$nome tem $idade anos <br>";
+			echo '$nome tem $idade anos';		
 		?>
 	</body>
 </html>
