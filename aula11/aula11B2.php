@@ -6,5 +6,4 @@
 	$valor5 = $_GET['valor5'];
 	
 	echo "$valor1<br>$valor2<br>$valor3<br>$valor4<br>$valor5";
-,
 ?>
